@@ -8,9 +8,6 @@ A mesmerizing WebGL liquid masking effect created with HTML, CSS, and JavaScript
 - [Customization](#customization)
 - [License](#license)
 
-
-[Live Demo](#) <!-- Add a link to the live demo if available -->
-
 ## Features
 
 - Fluid and interactive liquid masking effect.
