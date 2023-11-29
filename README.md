@@ -2,18 +2,12 @@
 
 A mesmerizing WebGL liquid masking effect created with HTML, CSS, and JavaScript, inspired by [CodePen](https://codepen.io/).
 
-![Demo](demo.gif)
-
 ## Table of Contents
-- [Demo](#demo)
 - [Features](#features)
 - [Usage](#usage)
 - [Customization](#customization)
 - [License](#license)
 
-## Demo
-
-![Demo](demo.gif)
 
 [Live Demo](#) <!-- Add a link to the live demo if available -->
 
@@ -28,7 +22,9 @@ A mesmerizing WebGL liquid masking effect created with HTML, CSS, and JavaScript
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/webgl-liquid-masking.git
+   git clone https://github.com/abdul-1432/WebGL-Liquid-Masking
+   ```
+   ```bash
    cd webgl-liquid-masking
    ```
 
